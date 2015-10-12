@@ -1,5 +1,5 @@
 html {
-  background: url("bg.png") repeat;
+  /* bbackground: url("bg.png") repeat; */
 }
 
 body {
@@ -152,7 +152,7 @@ li.repo > a {
 }
 
 li.repo a:hover {
-  background: #efefef;
+  background: #000;
   background: rgba(0, 0, 0, 0.05);
 }
 
